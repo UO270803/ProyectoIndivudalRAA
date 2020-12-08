@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{575a3243-5a79-438c-06c4-baf7e6640794}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingStressTest", "StreamingStressTest.csproj", "{7a933d1e-e4d3-2109-b5a5-692423a07400}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Unity.Physics.Samples.Test", "Unity.Physics.Samples.Test.csproj", "{6bfdfd5a-719c-60ed-a1c6-e08267ad409e}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StreamingStressTestEditor", "StreamingStressTestEditor.csproj", "{0a138878-b50a-6cf7-8d43-8a5f996d90f2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityPhysicsSamples.Editor", "UnityPhysicsSamples.Editor.csproj", "{f0cf7d53-335e-c48c-98d8-1dd6d02204b4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{575a3243-5a79-438c-06c4-baf7e6640794}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{575a3243-5a79-438c-06c4-baf7e6640794}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7a933d1e-e4d3-2109-b5a5-692423a07400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7a933d1e-e4d3-2109-b5a5-692423a07400}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6bfdfd5a-719c-60ed-a1c6-e08267ad409e}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6bfdfd5a-719c-60ed-a1c6-e08267ad409e}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0a138878-b50a-6cf7-8d43-8a5f996d90f2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0a138878-b50a-6cf7-8d43-8a5f996d90f2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{f0cf7d53-335e-c48c-98d8-1dd6d02204b4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f0cf7d53-335e-c48c-98d8-1dd6d02204b4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

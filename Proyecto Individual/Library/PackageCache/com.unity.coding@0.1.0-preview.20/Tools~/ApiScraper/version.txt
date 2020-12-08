@@ -1,0 +1,4 @@
+Repository: https://github.com/Unity-Technologies/api-scraper.git
+Branch: * (HEAD detached at 7a13e86)
+  master
+Commit: 7a13e86b00c6f3b0afe4bafeb0918d54c7027a66
